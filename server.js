@@ -33,7 +33,7 @@ const PORT= process.env.PORT ;
 
 app.use("/api/contact",require("./routes/contact"));
 
-// app.use("/api/user",require("./routes/user"));
+app.use("/api/user",require("./routes/user"));
 
 
 
