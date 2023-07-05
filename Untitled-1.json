@@ -1,0 +1,10 @@
+{
+    "instantMongo": {
+        "connections": [
+            {
+                "name": "New Database Connection",
+                "uri": "mongodb+srv://olfa1234:IluAeriQWQw9v6OH@cluster0.pxryudz.mongodb.net/"
+            }
+        ]
+    }
+}
